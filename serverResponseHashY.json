@@ -1,1 +1,39 @@
-{"playground":"{|lyHfoSwAdPrIjFBnQwMlK~Az[e@vBoHhEtAlEkRzVkMkw@_VpQoCcSnNsOuEwMjAoB{AeE_A_JjBoF{AkHzGcDnBPeC{VzQkHnG{GzGPr@vM`Kjb@hGcA","players":[{"userId":"1","polyline":[{"long":null,"lat":null}]},{"userId":"2","polyline":[{"long":null,"lat":null}]}]}
+{"playground":"{|lyHfoSwAdPrIjFBnQwMlK~Az[e@vBoHhEtAlEkRzVkMkw@_VpQoCcSnNsOuEwMjAoB{AeE_A_JjBoF{AkHzGcDnBPeC{VzQkHnG{GzGPr@vM`Kjb@hGcA","players":[{"userId":"1","polyline":[
+
+        {
+           "lat": "51.517100000000006",
+           "long": "-0.10500000000000001"
+        },
+        {
+           "lat": "51.4744432",
+           "long": "-0.0253946"
+        },
+        {
+           "lat": "51.4744432",
+           "long": "-0.0253946"
+        },
+        {
+           "lat": "51.4744432",
+           "long": "-0.0253946"
+        }
+
+]},{"userId":"2","polyline":[
+
+        {
+           "lat": "51.52203262",
+           "long": "-0.11973454"
+        },
+        {
+           "lat": "51.4744432",
+           "long": "-0.0353946"
+        },
+        {
+           "lat": "51.4744432",
+           "long": "-0.0353946"
+        },
+        {
+           "lat": "51.4744432",
+           "long": "-0.0353946"
+        }
+
+]}]}
