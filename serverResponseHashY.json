@@ -1,4 +1,4 @@
-{"playground":"{|lyHfoSwAdPrIjFBnQwMlK~Az[e@vBoHhEtAlEkRzVkMkw@_VpQoCcSnNsOuEwMjAoB{AeE_A_JjBoF{AkHzGcDnBPeC{VzQkHnG{GzGPr@vM`Kjb@hGcA","players":[{"userId":"1","polyline":[
+{"playground":"{|lyHfoSwAdPrIjFBnQwMlK~Az[e@vBoHhEtAlEkRzVkMkw@_VpQoCcSnNsOuEwMjAoB{AeE_A_JjBoF{AkHzGcDnBPeC{VzQkHnG{GzGPr@vM`Kjb@hGcA","players":[{"userId":"1","color":"ff0000","polyline":[
 
         {
            "lat": "51.517100000000006",
@@ -16,9 +16,11 @@
            "lat": "51.4744432",
            "long": "-0.0253946"
         }
+]
 
-]},{"userId":"2","polyline":[
+},{"userId":"2","color":"00ff00","polyline":
 
+[
         {
            "lat": "51.52203262",
            "long": "-0.11973454"
@@ -36,4 +38,6 @@
            "long": "-0.0353946"
         }
 
-]}]}
+]
+
+}]}
